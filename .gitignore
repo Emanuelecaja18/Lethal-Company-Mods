@@ -1,5 +1,6 @@
 *
 !/.gitignore
+!/LethalCompany**
 !/BepInEx
 !/BepInEx/*
 !/BepInEx/*/*

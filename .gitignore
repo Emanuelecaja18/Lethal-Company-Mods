@@ -8,3 +8,4 @@
 !/BepInEx/*/*/*/*
 !/doorstop_config.ini
 !/winhttp.dll
+BepInEx/LogOutput.log

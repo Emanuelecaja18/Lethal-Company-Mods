@@ -9,3 +9,7 @@
 !/doorstop_config.ini
 !/winhttp.dll
 BepInEx/LogOutput.log
+BepInEx/plugins/mrgrm7.LethalCasino.dll
+BepInEx/plugins/lethalcasinoassets
+BepInEx/plugins/atlasabyss.lethalbundle
+BepInEx/plugins/atlasabyss scene.lethalbundle
